@@ -7,4 +7,3 @@ def add(a,b):
 if __name__ == "__main__":
     import sys
     add(int(sys.argv[1])
-import 0-add.py
